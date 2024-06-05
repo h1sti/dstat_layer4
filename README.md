@@ -3,7 +3,7 @@
 # Layer4 DStat in Rust
 
 ## Overview
-This project is a Layer4 DStat (Distributed Statistics) tool built in Rust. It operates over TCP connections running on port 23. The tool is designed to monitor and report network statistics efficiently and securely.
+This project is a Layer4 DStat (Distributed Statistics) tool built in Rust. It operates over TCP connections running on port 23. The tool is designed to monitor network statistics efficiently and securely.
 
 ## Features
 - **High Performance**: Written in Rust for speed and safety.
