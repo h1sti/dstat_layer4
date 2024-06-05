@@ -49,7 +49,4 @@ We welcome contributions from the community. If you'd like to contribute, please
 2. Create a new branch with a descriptive name.
 3. Make your changes.
 4. Submit a pull request.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ---
